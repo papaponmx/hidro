@@ -31,12 +31,12 @@ include ('inc/header.php');
 
             Este sistema proporciona una eficiencia de las aguas residuales de un 90-95% cumpliendo así con las normas:</p><br>
             <ul>
-                <strong>
-                    <li>NOM-SEMARNAT-01-96</li>
-                    <li>NOM-SEMARNAT-02-96</li>
-                    <li>NOM-SEMARNAT-03-97</li>
-                    <li>NOM-SEMARNAT-04-02.</li>
-                </strong>
+
+                    <li><strong>NOM-SEMARNAT-01-96</strong></li>
+                    <li><strong>NOM-SEMARNAT-02-96</strong></li>
+                    <li><strong>NOM-SEMARNAT-03-97</strong></li>
+                    <li><strong>NOM-SEMARNAT-04-02.</strong></li>
+
             </ul>
 
     </div>
