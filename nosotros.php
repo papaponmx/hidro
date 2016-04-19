@@ -12,7 +12,7 @@ include ('inc/header.php');
   </p>
      <h1>Misión</h1>
 
-    <p>Proveer un servicio de excelencia en el tratamiento de todo tipo<br> de aguas residuales, ofreciendo las mejores alternativas<br> de diseño, operación y mantenimiento al mejor costo.<br><br>
+    <p>Proveer un servicio de excelencia en el tratamiento de todo <br>tipo de aguas residuales, ofreciendo las mejores alternativas<br> de diseño, operación y mantenimiento al mejor costo.<br><br>
 
     Cubrir las necesidades de nuestros clientes, desarrollando soluciones<br> integrales de inovación tecnológica y ambiental <br>brindando atención y servicio de calidad.
     </p>
