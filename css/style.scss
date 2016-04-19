@@ -1,0 +1,50 @@
+.home_cover, .nosotros-texto, #servicios-div, .productos-div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+.home_cover {
+  justify-content: center;
+
+}
+
+
+#servicios-div, .productos-div {
+  padding-top: 4em;
+  //align-items:  center;
+  //justify-content: flex-start;
+  h1 {
+    font-size: 3em;
+
+  }
+  ul li {
+    font-size: 1.6em;
+  }
+
+}
+
+
+
+
+
+.home_cover {
+  align-items: center;
+}
+
+
+
+.nosotros-texto {
+  padding-left: 4em;
+
+
+  p{
+    font-size: 1.2em;
+  }
+}
+
+#creditos {
+  font-size: smaller;
+}

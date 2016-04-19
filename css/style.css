@@ -1,0 +1,27 @@
+.home_cover, .nosotros-texto, #servicios-div, .productos-div {
+  height: 100vh;
+  display: flex;
+  flex-direction: column; }
+
+.home_cover {
+  justify-content: center; }
+
+#servicios-div, .productos-div {
+  padding-top: 4em; }
+  #servicios-div h1, .productos-div h1 {
+    font-size: 3em; }
+  #servicios-div ul li, .productos-div ul li {
+    font-size: 1.6em; }
+
+.home_cover {
+  align-items: center; }
+
+.nosotros-texto {
+  padding-left: 4em; }
+  .nosotros-texto p {
+    font-size: 1.2em; }
+
+#creditos {
+  font-size: smaller; }
+
+/*# sourceMappingURL=style.css.map */
