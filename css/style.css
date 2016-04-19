@@ -13,11 +13,18 @@
   #servicios-div ul li, .productos-div ul li {
     font-size: 1.6em; }
 
+.sistemas-div {
+  height: 100vh;
+  padding-top: 5em; }
+  .sistemas-div h1 {
+    text-align: center; }
+
 .home_cover {
   align-items: center; }
 
 .nosotros-texto {
-  padding-left: 4em; }
+  padding-left: 4em;
+  padding-top: 5em; }
   .nosotros-texto p {
     font-size: 1.2em; }
 
