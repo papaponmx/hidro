@@ -1,7 +1,7 @@
 <?php
 
 function get_item_html($id,$objeto){
-    $output = "<li><a href='detalles.php?="
+    $output = "<li><a href='detalles.php?=id"
         .$id."'><img alt='lorem ipsum' src='"
         . $objeto["img"]
         . "'>"  . $objeto["titulo"]
