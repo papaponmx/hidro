@@ -6,7 +6,7 @@ include ('inc/data.php');
 include ('inc/functions.php');
 ?>
 
-<div class="wrapper">
+<div class="wrapper galeria">
 
  <h1> <?php echo $pageTitle; ?></h1>
 
