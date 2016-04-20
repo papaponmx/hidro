@@ -12,7 +12,7 @@ $galeria[101] = [
     ];
 $galeria[102] = [
     "titulo" => "Objeto 2",
-    "img" => "http://lorempixel.com/400/200/",
+    "img" => "http://lorempixel.com/400/200/sports",
     "ubicacion" => "hermosillo, sonora",
     "tipo de sistema" => "mixto-biologico",
     "año" => "2012"
