@@ -10,11 +10,8 @@ include ('inc/header.php');
 
     <div class="container">
 
-        <form class="well form-horizontal" action=" " method="post"  id="contact_form">
+        <form class="well form-horizontal" action="process.php" method="post"  id="contact_form">
             <fieldset>
-
-                <!-- Form Name -->
-                <legend>¡Contactanos!</legend>
 
                 <!-- Text input-->
 
