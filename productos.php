@@ -1,6 +1,5 @@
 <?php
 include ('inc/data.php');
-include ('inc/functions.php');
 
 $pageTitle = 'Productos' ;
 $section = 'productos';
