@@ -1,12 +1,12 @@
 <?php
 
 function get_item_html($id,$objeto){
-    $output = "<li><a href='detalles.php?id="
+    $output = "<div class='col-xs-6 col-sm-3'><a href='detalles.php?id="
         .$id."'><p>"
         . $objeto["titulo"]
         ."</p><img alt='lorem ipsum' src='"
         . $objeto["img"]
-        . "'><p>Detalles</p></ahref></li>";
+        . "'></ahref></div>";
     return $output;
 
 };
