@@ -11,7 +11,10 @@ include ('inc/functions.php');
  <h1> <?php echo $pageTitle; ?></h1>
 
     <div class="container-galeria container"> <?php
-        $random = array_rand($galeria, 4);
+        $elementsNumber = count($galeria);
+        $random = array_rand($galeria, $elementsNumber);
+
+
         foreach ($random as $id) {
             echo get_item_html($id, $galeria[$id]);
         };
