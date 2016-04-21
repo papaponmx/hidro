@@ -3,7 +3,6 @@
   display: flex;
   flex-direction: column;
 
-
 }
 
 .home_cover {
@@ -27,13 +26,14 @@
 
 .sistemas-div {
   height: 100vh;
-
+  padding-top: 5em;
 h1 {
   text-align: center;
 }
+  p {
+    font-size: 1.125em;
+  }
 
-
-  padding-top: 5em;
 }
 
 
@@ -42,7 +42,11 @@ h1 {
   align-items: center;
 }
 
+//Estilos para sistemas.php
 
+
+
+//Estilos para nosotros.php
 
 .nosotros-texto {
   padding-left: 4em;
@@ -54,9 +58,8 @@ h1 {
   }
 }
 
-#creditos {
-  font-size: smaller;
-}
+
+//Estilos para contacto.php
 
 .contacto {
   padding-top: 5em;
@@ -93,4 +96,34 @@ h1 {
 
   }
 
+// Estilos para detalles.php
 
+
+ .detalles-cont {
+  min-height: 100vh;
+   //padding-top: 4em;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+  h1 {
+    text-align: center;
+  }
+   img {
+     max-width: 100%;
+     max-height: 40vh;
+   }
+
+}
+
+
+
+// Estilos para footer.php
+
+#creditos {
+  font-size: smaller;
+}
+
+td {
+  padding-left: 2em;
+}
