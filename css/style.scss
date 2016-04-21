@@ -1,5 +1,5 @@
 .home_cover, .nosotros-texto, #servicios-div, .productos-div, .contacto {
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
 
@@ -18,7 +18,6 @@
   //justify-content: flex-start;
   h1 {
     font-size: 3em;
-
   }
   ul li {
     font-size: 1.6em;
@@ -61,4 +60,29 @@ h1 {
 
 .contacto {
   padding-top: 5em;
+  h1 {
+    text-align: center;
+  }
 }
+
+// Estilos para galeria.php
+.galeria {
+  min-height: 100vh;
+  padding-top: 4em;
+  text-align: center;
+  .galeria-elemento {
+    padding-bottom: 3em;
+  }
+  .galeria-elemento:hover, .galeria-elemento:focus  {
+    background-color: gray;
+    color: white;
+  }
+
+  img {
+    max-width: 100%;
+
+  }
+
+  }
+
+
