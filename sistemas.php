@@ -9,7 +9,7 @@ include ('inc/header.php');
 
     <div class="col-sm-6 bio">
      <h2>Sistemas Biológicos</h2>
-        Los sistemas de tratamiento de aguas residuales se emplean para lograr la remoción de contaminantes que son agregados al agua producto de diferentes <br>actividades. Las plantas de tratamiento con sistema QUÍMICO son utilizadas principalmente para el tratamiento de aguas jabonosas o para aguas de <br>tendencia industrial tales como AGUAS CONGENITAS, RESIDUOS DE LA INDUSTRIA QUÍMICA O ALTAS CARGAS ORGÁNICAS EN DBO5, donde los contaminantes del algua varían.<br><br>
+        <p>Los sistemas de tratamiento de aguas residuales se emplean para lograr la remoción de contaminantes que son agregados al agua producto de diferentes <br>actividades. Las plantas de tratamiento con sistema QUÍMICO son utilizadas principalmente para el tratamiento de aguas jabonosas o para aguas de <br>tendencia industrial tales como AGUAS CONGENITAS, RESIDUOS DE LA INDUSTRIA QUÍMICA O ALTAS CARGAS ORGÁNICAS EN DBO5, donde los contaminantes del algua varían.<br><br>
 
         HIDROBIOTECNOLOGIA te ofrece la mejor tecnológía así como sistemas especilaizados y diseñados especificamente para satisfacer tus necesidades, dependiendo <br>del tipo de agua residual, el flujo a tratar y el rehuso que quieras darle al agua tratada o la norma con la que deseas cumplir.
         <br><br>
@@ -17,7 +17,7 @@ include ('inc/header.php');
         <br><br>
         Te ofrecemos el mejor costo por m3 tratado, somos una empresa con tecnología 100% mexicana, solo nosotros te ofrecemos el mejor precio.
         <br><br>
-        <strong>¡SOMOS FABRICANTES!</strong>
+        <strong>¡SOMOS FABRICANTES!</strong></p>
     </div>
 
     <div class="col-sm-6 quimicos">
