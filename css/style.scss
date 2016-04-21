@@ -72,10 +72,18 @@ h1 {
   text-align: center;
   .galeria-elemento {
     padding-bottom: 3em;
+    a {
+      font-size: large;
+      color: #101010;
+    }
+
   }
   .galeria-elemento:hover, .galeria-elemento:focus  {
     background-color: gray;
-    color: white;
+    a {
+      color: white;
+      text-decoration: none;
+    }
   }
 
   img {
