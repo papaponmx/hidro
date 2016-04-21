@@ -38,8 +38,8 @@ $theTitle
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Hidrobiotecnología</a>
-        </div>
+<!--            <a class="navbar-brand" href="#">Hidrobiotecnología</a>
+-->        </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li class=" <?php if ($section == 'home') { echo 'active';} ;?>"><a href="index.php"><i class="material-icons">home</i></a></li>
