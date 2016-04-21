@@ -10,13 +10,13 @@ include ('inc/functions.php');
 
  <h1> <?php echo $pageTitle; ?></h1>
 
-    <ul> <?php
+    <div class="container-galeria container"> <?php
         $random = array_rand($galeria, 4);
         foreach ($random as $id) {
             echo get_item_html($id, $galeria[$id]);
         };
         ?>
-    </ul>
+    </div>
 
 </div>
 
