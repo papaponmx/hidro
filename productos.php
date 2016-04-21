@@ -16,9 +16,9 @@ include ('inc/header.php');
             foreach ($productos as $producto) {
                 echo "<div class='producto container'><h1>"
                     . $producto["nombre"]
-                    . "</h1><div class='col-xs-6'><p>"
+                    . "</h1><div class='col-xs-12 col-sm-6'><p>"
                     . $producto["descripcion"]
-                    . "</p></div><div class='col-xs-6'><img src='"
+                    . "</p></div><div class='col-xs-12 col-sm-6'><img src='"
                     . $producto["img"]
                     ."'></img></div></div>";
             }
