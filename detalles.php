@@ -24,15 +24,17 @@ include ('inc/header.php');
 
 
 
-<div class="wrapper">
-
+<div class="wrapper detalles-cont">
+    <h1> <?php echo $objeto['titulo'];?></h1>
     <div class="imagen-completa">
+
+
+
         <span>
             <img src="<?php echo $objeto['img']?>" alt="<?php echo $objeto['titulo'];?>" />
         </span>
     </div>
     <div class="detalles">
-        <h1> <?php echo $objeto['titulo'];?></h1>
         <table>
           <tr>
                 <th>Ubicacion</th>
