@@ -1,6 +1,8 @@
 <div class="footer">
+     <a href="https://www.facebook.com/hidrobiotecnologia.sadecv"><img id="fb" src="img/logos-and-badges_f-logo_online/png/FB-f-Logo__blue_29.png"></a>
 
-    <p id="creditos">Hecho por <a href="http://riosjaime.com">Jaime Rios</a></p>
+ <!--   <p id="creditos">Hecho por <a href="http://riosjaime.com">Jaime Rios</a></p>-->
+
 </div>
 
 
